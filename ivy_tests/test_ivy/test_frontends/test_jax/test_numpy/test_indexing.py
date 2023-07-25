@@ -447,4 +447,3 @@ def test_jax_apply_along_axis(
         axis=axis,
         arr=x[0],
     )
-    
